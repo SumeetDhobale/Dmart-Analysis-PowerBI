@@ -68,11 +68,11 @@ The project uses multiple datasets:
 
 ### 🔹 Home Page
 
-![Home Dashboard](images/home_dashboard.png)
+![Home Dashboard](images/Dashboard Home.png)
 
 ### 🔹 Sales Analysis
 
-![Analysis Dashboard](images/sales_dashboard.png)
+![Analysis Dashboard](images/Analysis.png)
 
 ---
 

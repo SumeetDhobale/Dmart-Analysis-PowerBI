@@ -68,7 +68,7 @@ The project uses multiple datasets:
 
 ### 🔹 Home Page
 
-![Home Dashboard](images/Dashboard Home.png)
+![Home Dashboard](images/Dashboard_Home.png)
 
 ### 🔹 Sales Analysis
 
